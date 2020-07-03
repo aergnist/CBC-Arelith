@@ -1,3 +1,21 @@
+## [v2.0.0](../../tree/2.0.0) (17.08.2019)
+* :bug: **Bugfix** Ranger/Archer receives Uncanny Dodge at level 8, not 7
+* Re-implemented harper classes as independent classes rather than references to Harper Scout (many various changes)
+* Harper Scout no longer receives improved sneak attack, but does receive trackless step
+* Harper Mage now receives spell penetration feats instead of automatic quicken spell
+* Renamed Dwarven Defender to Earthkin Defender
+* Updated class abbreviations
+
+* Bonus feats set for Harper Scout
+* Bonus feats set for Harper Mage
+* Bonus feats set for Harper Paragon
+
+* Updated class skills for harper classes and fighter
+* Granted craft skills as universal class skills
+
+* Fixed fixed base race notations
+* Shaved off levels 31-40 as they don't exist on Arelith (the sheet is now approx. 20% lighter)
+
 ## [v1.2.3](../../tree/1.2.3) (03.08.2019)
 * Output now shows "Minor Gift" and "Major Gift" placeholders
 * Racial templates now accept subraces of applicable base races
