@@ -1,3 +1,10 @@
+## [v1.2.0](../../tree/1.2.0) (16.07.2019)
+* :bug: **Bugfix** Superior Skill Affinity Bluff now grants +6 instead of +7
+* Consistent sorting of important/other racial feats to make sure all mechanically essential feats are registered
+* Implemented Racial Templates to cover Arelith custom races that may be taken with various base races
+* Implemented Arelith races: Aasimar, Tiefling, Genasi, Vampire
+* Racial template ability score changes are applied after base race and gifts.
+
 ## [v1.1.2](../../tree/1.1.2) (15.07.2019)
 * :bug: **Bugfix** ECL calculation was off-by-one row when selecting gifts
 * :bug: **Bugfix** Gift validation list no longer offering empty values
