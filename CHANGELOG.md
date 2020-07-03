@@ -1,3 +1,14 @@
+## [v1.1](../../tree/1.1) (14.07.2019)
+* Chosen gifts now affect ECL
+* Racial Spell Resistance implemented as feats where static; otherwise based on race
+
+* Implemented Arelith Classes (abbr.): Healer (Cl), Totem Druid (Dr), Harper Mage (Ha), Harper Priest (Ha), Harper Paragon (Ha), Master Harper Ha), Archer (R), True Flame (So), Wild Mage (W), Spellsword (SS), Shadow Wizard (W), Shadow Sorcerer (So)
+* Totems are implemented similarly to cleric domains, assuming totem choice at Druid level 1, granting only hard ability score changes. 
+* Paladin gains +1 wisdom every 7th level
+* Pale Master AC bonus halved
+* Monk speed limited to +50
+* Rogue gains Detection I at level 10 if already has Keen Sense; otherwise gains only Keen Sense
+
 ## [v1.0](../../tree/1.0) (14.07.2019)
 * All Arelith gifts implemented with appropriate bonuses to ability scores, skills, and saves.
 * Gifts options are based on ECL from race
