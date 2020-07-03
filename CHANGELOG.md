@@ -1,3 +1,9 @@
+## [v1.2.3](../../tree/1.2.3) (03.08.2019)
+* Output now shows "Minor Gift" and "Major Gift" placeholders
+* Racial templates now accept subraces of applicable base races
+* Changed naming conventions of racial skill affinities
+* Spell focuses in Enchantment now grant cumulative bonus to Persuade, Perform, and Bluff
+
 ## [v1.2.2](../../tree/1.2.2) (23.07.2019)
 * :bug: **Bugfix** No longer warns "0 = illegal" when starting a new class
 * :bug: **Bugfix** Class validation now checks for 11+ Intelligence if wizard level is taken at level 1
