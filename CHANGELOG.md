@@ -1,3 +1,8 @@
+## [v1.2.1](../../tree/1.2.1) (16.07.2019)
+* :bug: **Bugfix** Racial Template Variant now editable 
+* Note: Race2 includes explanation of erronous statblocks at level 1 for custom races, compared to in-game experience
+* The sheet will now warn you that you are illegal at any point where you have not taken the mandatory first three levels of a class in sequence
+
 ## [v1.2.0](../../tree/1.2.0) (16.07.2019)
 * :bug: **Bugfix** Superior Skill Affinity Bluff now grants +6 instead of +7
 * Consistent sorting of important/other racial feats to make sure all mechanically essential feats are registered
