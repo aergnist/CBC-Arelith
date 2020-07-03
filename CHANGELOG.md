@@ -1,3 +1,13 @@
+## [v1.2.2](../../tree/1.2.2) (23.07.2019)
+* :bug: **Bugfix** No longer warns "0 = illegal" when starting a new class
+* :bug: **Bugfix** Class validation now checks for 11+ Intelligence if wizard level is taken at level 1
+* Racial Template + Variant now included in ECL calculation before gift options open
+* Character now granted missing skill points at level 2 if granted a bonus to its intelligence score from gifts/racial templates
+* Prestige class validation will now ignore you if you take shadowdancer levels with shadow mage
+* Implemented shadow wizard specialists, shadow illusionist etc etc
+* Added "base race" column to show what Arelith races are created from
+* Prestige class validation now accept subraces for race prereqs, by looking at base race
+
 ## [v1.2.1](../../tree/1.2.1) (16.07.2019)
 * :bug: **Bugfix** Racial Template Variant now editable 
 * Note: Race2 includes explanation of erronous statblocks at level 1 for custom races, compared to in-game experience
