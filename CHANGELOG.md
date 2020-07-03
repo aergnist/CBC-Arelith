@@ -1,3 +1,11 @@
+## [v2.1.0](../../tree/2.1.0) (06.09.2019)
+* :bug: **Bugfix** Paragon now does not gain both Divine Grace and unisave boost unless it has paladin levels
+* :bug: **Bugfix** Now validating all classes for prereqs, not just the first 26
+* :bug: **Bugfix** All select buttons in Character are now changed to only highlight up to level 30
+* :bug: **Bugfix** Spellcasting now manages to calculate again, phew
+
+* Wood Elf now gains Weapon Focus: Longbow
+
 ## [v2.0.0](../../tree/2.0.0) (17.08.2019)
 * :bug: **Bugfix** Ranger/Archer receives Uncanny Dodge at level 8, not 7
 * Re-implemented harper classes as independent classes rather than references to Harper Scout (many various changes)
