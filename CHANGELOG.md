@@ -1,6 +1,14 @@
+
+## [v1.1.1](../../tree/1.1.1) (14.07.2019)
+* Class feat summary will no longer hide enumerated feats taken repeatedly, i.e. Harper Mage shows Automatic Quicken Spell at both level 1 + 5
+* Master Harper's bonus feat Skill Focus Perform now grants the appropriate skill bonus
+* Quarterstaff and katana now finessable
+* Removed XP penalty nonsense
+
 ## [v1.1](../../tree/1.1) (14.07.2019)
 * Chosen gifts now affect ECL
 * Racial Spell Resistance implemented as feats where static; otherwise based on race
+* Skills now include bonuses granted by free class feats, including Detection and Skill Focuses
 
 * Implemented Arelith Classes (abbr.): Healer (Cl), Totem Druid (Dr), Harper Mage (Ha), Harper Priest (Ha), Harper Paragon (Ha), Master Harper Ha), Archer (R), True Flame (So), Wild Mage (W), Spellsword (SS), Shadow Wizard (W), Shadow Sorcerer (So)
 * Totems are implemented similarly to cleric domains, assuming totem choice at Druid level 1, granting only hard ability score changes. 
@@ -8,6 +16,12 @@
 * Pale Master AC bonus halved
 * Monk speed limited to +50
 * Rogue gains Detection I at level 10 if already has Keen Sense; otherwise gains only Keen Sense
+* Fighter/Spellsword discipline bonus implemented as low-display class feats
+* Shadow Mages granted low-display class feat "Shadow Adept" to handle increased Enchantment/Illusion/Necromancy DC
+* Shadowdancer's granted +1 hide/level (mimics bardic knowledge)
+* Harper Paragon granted appropriate saves bonuses (similar to Sacred Defense) 
+* Harper Priest stacks with divine classes for Turn Undead
+* Master Harper stacks with Bard for bard song
 
 ## [v1.0](../../tree/1.0) (14.07.2019)
 * All Arelith gifts implemented with appropriate bonuses to ability scores, skills, and saves.
