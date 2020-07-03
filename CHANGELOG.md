@@ -1,3 +1,10 @@
+## [v1.1.2](../../tree/1.1.2) (15.07.2019)
+* :bug: **Bugfix** ECL calculation was off-by-one row when selecting gifts
+* :bug: **Bugfix** Gift validation list no longer offering empty values
+* (Epic) Skill Focus Listen/Spot now grants its bonus to both skills
+* (Epic) Skill Focus Hide/Move Silently now grants its bonus to both skills
+* Moved racial weapon proficiencies to important feats; otherwise they don't register
+* Gifts now show up in output
 
 ## [v1.1.1](../../tree/1.1.1) (14.07.2019)
 * Class feat summary will no longer hide enumerated feats taken repeatedly, i.e. Harper Mage shows Automatic Quicken Spell at both level 1 + 5
